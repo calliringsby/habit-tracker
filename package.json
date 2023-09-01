@@ -1,0 +1,19 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "helps you track your habits!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calliringsby/habit-tracker.git"
+  },
+  "author": "Calli Ringsby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calliringsby/habit-tracker/issues"
+  },
+  "homepage": "https://github.com/calliringsby/habit-tracker#readme"
+}
